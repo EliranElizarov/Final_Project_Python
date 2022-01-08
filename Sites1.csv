@@ -1,0 +1,68 @@
+Site_Name,Site_Code,Location,Temp_location_code,Is_water_area,Air_quality_location,Air_quality_Code,Is_National_Park,Is_Reserve,Is_Jewish_Site,Is_Christian_Site,Camping,Duration_Of_Visit
+Tel Hatzor,15,North,8643,no,Upper Galilee,10,1,0,1,0,0,1
+Yechi'am,16,North,190,no,Upper Galilee,10,1,0,1,0,0,1
+Banias,18,North,8263,no,Upper Galilee,10,0,1,0,1,0,1
+Tel Dan,19,North,8263,yes,Upper Galilee,10,0,1,0,0,0,2
+Nahal Ayun,20,North,8263,yes,Upper Galilee,10,0,1,0,0,0,1
+Gamla,23,North,4738,no,Upper Galilee,10,0,1,1,0,0,1
+Ha'chula,24,North,8643,no,Upper Galilee,10,0,1,0,0,0,1
+Kursi,25,North,4738,no,Upper Galilee,10,1,0,0,1,0,1
+Korazim,26,North,8690,no,Upper Galilee,10,1,0,0,1,0,1
+Ein Afek,28,North,301,no,Haifa,5,0,1,0,0,0,1
+Arbel,45,North,8736,no,Upper Galilee,10,1,0,1,0,0,1
+Hamat Tveria,71,North,911,yes,Upper Galilee,10,1,0,1,0,0,1
+Kochav Hayarden,72,North,911,no,Dalia,4,1,0,0,1,1,1
+Beit Alfa,76,North,5844,no,Dalia,4,1,0,1,0,0,1
+Beit She'an,77,North,9376,no,Dalia,4,1,0,0,1,0,1
+Beit Shearim,78,North,5811,no,Dalia,4,1,0,1,0,0,1
+Megido,82,North,5811,no,Dalia,4,1,0,0,1,0,1
+Maayan Harod,83,North,6055,yes,Dalia,4,1,0,0,0,1,2
+Tzipori,84,North,5811,no,Haifa,5,1,0,1,0,0,2
+Nahal Me'arot,87,North,1054,no,Dalia,4,0,1,0,0,0,1
+Cesarea,88,North,1381,no,Dalia,4,1,0,0,1,0,2
+Me'arat Hanetifim,152,Central,6771,no,Jerusalem,6,1,0,0,0,0,1
+Tel Afek,153,Central,2410,yes,Tel Aviv,9,1,0,0,1,1,2
+Beit Yanay Beach,155,Central,1381,yes,Dalia,4,1,0,0,0,0,2
+Apolonia,158,Central,2410,no,Tel Aviv,9,1,0,0,1,0,1
+Beit Govrin,159,Central,3541,no,Tel Aviv,9,1,0,0,0,0,2
+Harodion,228,Judea and Samaria,6771,no,Jerusalem,6,1,0,1,0,0,1
+Komran,229,Judea and Samaria,9460,no,Jerusalem,6,1,0,0,1,0,1
+Grizim Mountain,230,Judea and Samaria,6247,no,Dalia,4,0,0,0,0,0,1
+Hashomroni Hatov,244,Judea and Samaria,6663,no,Jerusalem,6,0,0,0,1,0,1
+Ein Prat,245,Judea and Samaria,6663,yes,Jerusalem,6,0,1,0,0,0,2
+Ayanot Tzukim,247,Judea and Samaria,3541,yes,Jerusalem,6,0,1,0,0,0,2
+Ein Gedi,253,South,9476,yes,Be'er Sheva,3,0,1,1,0,0,2
+Ramon Visitors Center,255,South,8229,no,Be'er Sheva,3,0,0,0,0,0,1
+Hai Ramon,256,South,8229,no,Be'er Sheva,3,0,0,0,0,0,1
+Be'erot,257,South,8229,no,Be'er Sheva,3,0,0,0,0,1,3
+Metzada,258,South,7822,no,Be'er Sheva,3,1,0,1,0,1,2
+Metzada Night Parking,259,South,7822,no,Be'er Sheva,3,0,0,0,0,1,3
+Tel Arad,264,South,7822,no,Be'er Sheva,3,1,0,1,0,1,1
+Mamshit,266,South,8206,no,Be'er Sheva,3,1,0,0,0,1,1
+Uvdat,267,South,8206,no,Be'er Sheva,3,1,0,0,0,0,1
+Matzok Tzinim Ein Uvdat,269,South,8206,no,Be'er Sheva,3,1,0,0,0,0,2
+Tel Beer Sheva,272,South,7841,no,Be'er Sheva,3,1,0,1,0,0,1
+Almogim,301,South,9974,yes,Be'er Sheva,3,0,1,0,0,0,2
+Hai Bar Yotveta,303,South,8243,no,Be'er Sheva,3,0,1,0,0,1,1
+Bar'am,13,North,8643,no,Upper Galilee,10,1,0,1,0,0,1
+Meshushim,22,North,4738,yes,Upper Galilee,10,0,1,0,0,0,1
+Nahal Snir,27,North,8263,yes,Upper Galilee,10,0,1,0,0,0,2
+Nahal Amud,52,North,8736,yes,Upper Galilee,10,0,1,0,0,1,2
+Hai Bar Carmel,86,North,1054,no,Haifa,5,0,1,0,0,0,1
+Dor Habonim,91,North,1054,yes,Dalia,4,0,1,0,0,0,2
+Nahal Taninim,94,North,1381,yes,Dalia,4,0,1,0,0,0,1
+Ashkelon,162,Central,3541,yes,Tel Aviv,9,1,0,0,1,1,3
+Palmahim,167,Central,3014,yes,Tel Aviv,9,1,0,0,0,0,3
+Eshkol Park,273,South,7841,yes,Be'er Sheva,3,1,0,0,0,0,2
+Yehudiya,21,North,8736,yes,Upper Galilee,10,0,1,0,0,0,2
+Ein Hemed,160,Central,6771,yes,Jerusalem,6,1,0,0,0,1,2
+Kastel,161,Central,6771,no,Jerusalem,6,0,0,1,0,0,1
+Sovev Homot Old Jerusalem,171,Central,6771,no,Jerusalem,6,1,0,1,0,0,2
+Magrase,33,North,8736,yes,Upper Galilee,10,0,1,0,0,0,1
+Hurshat Tal,14,North,8263,yes,Upper Galilee,10,1,0,0,0,1,2
+Mivtzar Nimrod,17,North,8263,no,Upper Galilee,10,1,0,0,1,0,1
+Metzada Or Vekol,260,South,7822,no,Be'er Sheva,3,1,0,1,0,1,3
+Achziv,12,North,21,yes,Haifa,5,1,0,0,0,1,2
+Havat Mishmar HaCarmel,43,North,1054,no,Dalia,4,0,0,0,0,1,3
+Ein Mavo'a,246,Judea and Samaria,6663,yes,Jerusalem,6,0,1,0,0,0,2
+Gan Hashlosha,79,North,9376,yes,Dalia,4,1,0,0,0,1,2
